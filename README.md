@@ -17,10 +17,14 @@
 ---
 
 #### Github Stats
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sanketpandia&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-
+</p>
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketpandia&theme=dark" width="48%" >
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketpandia&theme=dark" width="48%" />
+</p>
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpandia&layout=compact)
+<p align="center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpandia&layout=compact"/>
+</p>
