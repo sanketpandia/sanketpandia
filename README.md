@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-**sanketpandia/sanketpandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 
 - 🔭 I’m currently working on a discord bot for enthusiasts in the mobile flight sim community
 - 💬 Ask me about Javascript, aviation
