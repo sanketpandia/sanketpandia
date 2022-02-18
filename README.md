@@ -23,7 +23,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sanketpandia&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 </p>
 
-#### Top Languages
 <p align="center">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpandia&layout=compact"/>
 </p>
