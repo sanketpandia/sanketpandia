@@ -1,8 +1,13 @@
 <p align="center">
- **Hi there 👋, I'm Sanket**
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
+ Hi there 👋, I'm Sanket
 
 </p>
+<p align="center">
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=username.repoName"
+         alt="GitHub visitors">
+
+</p>
+
 
 - 🔭 I’m currently working on a discord bot for enthusiasts in the mobile flight sim community
 - 💬 Ask me about Javascript, aviation
